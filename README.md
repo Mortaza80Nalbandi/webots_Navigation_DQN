@@ -64,5 +64,5 @@ you can seet the effectivenss of the model in the followibng gifs. the first gif
 The training outcomes for 2 training over 2500 episodes, are summarized below. This includes the raw rewards obtained and the Simple Moving Average of 50 (SMA 50) rewards. we decided to show 2 trainings to make sure that the training process wasn't done randomely and the hyperparametrs and alghoritm is implemented successfully
 
 
-|![](./controllers\Test\results\reward_plot.png)<br>first train|![](./controllers\Test\results\reward_plot2.png)<br>second traib|
+|![](./controllers/Test/results/reward_plot.png)<br>first train|![](./controllers/Test/results/reward_plot2.png)<br>second traib|
 |:-:|:-:|
